@@ -1,1 +1,12 @@
-c:\Demo_Projects\aggregate\src\main\java\com\aggregate\aggregate\AggregateApplication.java
+c:\C88_PROJECTS\aggregate\src\main\java\com\aggregate\aggregate\AggregateApplication.java
+c:\C88_PROJECTS\aggregate\src\main\java\com\aggregate\aggregate\config\AppConfig.java
+c:\C88_PROJECTS\aggregate\src\main\java\com\aggregate\aggregate\config\WebClientConfig.java
+c:\C88_PROJECTS\aggregate\src\main\java\com\aggregate\aggregate\controller\AggregateApiController.java
+c:\C88_PROJECTS\aggregate\src\main\java\com\aggregate\aggregate\controller\AggregateWebApiController.java
+c:\C88_PROJECTS\aggregate\src\main\java\com\aggregate\aggregate\controller\BearerTokenController.java
+c:\C88_PROJECTS\aggregate\src\main\java\com\aggregate\aggregate\controller\TokenController.java
+c:\C88_PROJECTS\aggregate\src\main\java\com\aggregate\aggregate\entity\ApiResponse.java
+c:\C88_PROJECTS\aggregate\src\main\java\com\aggregate\aggregate\service\ApiRequestService.java
+c:\C88_PROJECTS\aggregate\src\main\java\com\aggregate\aggregate\service\EncryptionService.java
+c:\C88_PROJECTS\aggregate\src\main\java\com\aggregate\aggregate\service\TokenGeneratedInput.java
+c:\C88_PROJECTS\aggregate\src\main\java\com\aggregate\aggregate\service\TokenService.java
